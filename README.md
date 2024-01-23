@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I am El<br>🖊️ I am a 1st Year BS Information Technology Student<br>👀 I’m interested in tech stuff!<br>🌱 I’m currently learning OOP<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I like poems and cats 😺
+Hi! 👋 I am Eli<br>🖊️ I am a 1st Year BS Information Technology Student<br>👀 I’m interested in tech stuff!<br>🌱 I’m currently learning OOP<br>😄 Pronouns: He/Him<br>⚡ Fun fact: I like poems and cats 😺
 
 
 ## 🌐 Socials:
