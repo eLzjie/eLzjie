@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I am Eli<br>🖊️ 2nd Year BS Information Technology Student<br>👀 I’m interested in tech stuff!<br>🌱 I’m currently learning how to center div<br>
+Hi! 👋 I am Eli<br>🖊️ 2nd Year BS InfoTech Student<br>👀 I’m interested in tech stuff!<br>🌱 I’m currently learning how to center div<br>
 
 
 ## 🌐 Socials:
