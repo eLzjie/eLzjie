@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi! 👋 I am Eli<br>🖊️ 2nd Year BS InfoTech Student
+Hi! 👋 I am Eli<br>🖊️ 3nd Year BS InfoTech Student
 
 
 ## 🌐 Socials:
